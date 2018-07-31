@@ -1,6 +1,3 @@
+import toust from "../mod/toust.js";
 
-const  toust = require('../mod/toust.js')
-
-
-
-
+toust('hhh')
