@@ -1,6 +1,6 @@
-var obj  =require('../mod/b.js')
+
+const  toust = require('../mod/toust.js')
 
 
-console.log(obj)
 
-console.log('Hello Webpack!!!')
+
